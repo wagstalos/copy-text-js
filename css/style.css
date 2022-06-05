@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Varela+Round&display=swap');
+
+*{
+  background-color:#8358FF;
+  text-align:center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h1{
+  color:#fff;
+}
+
+input{
+  background-color: #fff;
+  border-radius: 8px;
+  border:none;
+  height:40px;
+  width:300px;
+}
+
+button{
+  background-color: #e84393;
+  border:none;
+  padding:8px 16px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight:bold;
+  height: 40px;
+  cursor:pointer;
+  margin-left:8px;
+}
+
+button:hover{
+  background-color: #8870FF;
+}
+
+i{
+  font-size:1rem;
+  color:#fff;
+  background-color: transparent;
+}
+
+p{
+  color: #fff;
+}
+
+#result{
+  color:#fff;
+}
+.backResult{
+  display:inline-block;
+  background-color:#7257E5;
+  padding:8px;
+  border: 1px solid #8971F3;
+  border-radius: 4px;
+}
+
+#btn__clean{
+  display:none;
+}
+
+@media (max-width: 600px)
+{
+  button{
+    margin-top: 8px;
+    background-color: transparent;
+  }
+  
+  input{
+    width:100%;
+  }
+}
