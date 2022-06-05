@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/static/v1?label=Site&message=JAVASCRIT&color=feca57&style=for-the-badge&logo="/>
 <img src="https://img.shields.io/static/v1?label=Status&message=finalizado&color=55efc4&style=for-the-badge&logo="/>
 </h1>
-#feca57
    <img src="https://github.com/wagstalos/cripto/blob/master/src/cripto.png" alt="">
 
 
