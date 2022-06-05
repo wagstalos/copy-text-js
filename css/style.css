@@ -45,6 +45,10 @@ p {
     color: #fff;
 }
 
+.fa-check {
+    display: none;
+}
+
 .input__container {
     display: flex;
     align-items: center;
