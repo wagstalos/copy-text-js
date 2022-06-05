@@ -12,10 +12,10 @@
 <p align="center">Olá, sou Wagner Paulo, profissional da área Desenvolvimento Web e Games, formado em Design Gráfico (UNIP) e Desenvolvimento Jogos Digitais(ETEC). Apaixonado por tecnologias, trabalho com produção de sites, aplicativos, PWA e jogos digitais com foco para o ensino EaD, neste projeto eu criei uma aplicação para ver cotaçã oda criptomoedas</p>
 
 <h1 align="center">
-<img src="https://img.shields.io/static/v1?label=Site&message=REACTJS&color=3498db&style=for-the-badge&logo="/>
+<img src="https://img.shields.io/static/v1?label=Site&message=JAVASCRIT&color=feca57&style=for-the-badge&logo="/>
 <img src="https://img.shields.io/static/v1?label=Status&message=finalizado&color=55efc4&style=for-the-badge&logo="/>
 </h1>
-
+#feca57
    <img src="https://github.com/wagstalos/cripto/blob/master/src/cripto.png" alt="">
 
 
