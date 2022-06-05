@@ -1,11 +1,14 @@
 const phrases = document.getElementById("phrases");
 var texto = document.getElementById("texto");
 const btnClean = document.getElementById("btn__clean");
+const btnCopyText = document.getElementById("btnCopyText");
+
 
 function copyText(){
     texto.select();
-    document.execCommand("copy")
+    document.execCommand("copy");
     phrases.innerText = 'Texto copiado: ' + texto.value;
+    btnCopyText.innerText = 'Texto copiado';
 }
 
 function cleanText(){
@@ -13,7 +16,8 @@ function cleanText(){
     phrases.innerHTML = '';
     result.innerHTML = '';
     result.classList.remove("backResult");
-  btnClean.style.display = "none";
+    btnClean.style.display = "none";
+    btnCopyText.innerText = 'Copiar texto';
 }
 
 function clean(){

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Varela+Round&display=swap');
 
-* {
+body {
     background-color: #8358FF;
     text-align: center;
     font-family: 'Varela Round', sans-serif;
@@ -86,8 +86,8 @@ p {
     }
 
     button {
-        margin-top: 8px;
-        background-color: transparent;
+        margin-top: 16px;
+        /* background-color: transparent; */
     }
 
     input {
