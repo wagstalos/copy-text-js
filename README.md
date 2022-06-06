@@ -4,7 +4,7 @@
 <h1 align="center">copy-text-js</h1>
 
 <h1 align="center">
-    <a href="https://wagstalos.github.io/copy-text-js)">🔗 link  do projeto</a>
+    <a href="https://wagstalos.github.io/copy-text-js">🔗 link  do projeto</a>
 </h1>
 
 ## Descrição do Projeto
